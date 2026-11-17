@@ -1,0 +1,13 @@
+{
+  "name": "mt-1-labexam",
+  "version": "1.0.0",
+  "description": "Vehicle Management Application",
+  "main": "httpServer.js",
+  "scripts": {
+    "start:http": "node httpServer.js",
+    "start:express": "node expressApp.js"
+  },
+  "author": "Anjali Verma",
+  "license": "ISC",
+  "type": "module"
+}
